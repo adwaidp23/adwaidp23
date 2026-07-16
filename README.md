@@ -1,29 +1,29 @@
-# Adwaidp23 Profile
+<!--
+  This is your PROFILE README. It goes in a repo named exactly after your
+  username (e.g. github.com/OCTOCAT/OCTOCAT) so GitHub shows it on your profile.
+  Replace the ALL-CAPS placeholders. Widths 370/490 keep the portrait and info
+  card the same height -- if you change the info card's H, re-match these.
+-->
+<div align="center">
 
-## Project Overview
-A professional Data Science/Analytics project: adwaidp23-profile.
+<table>
+<tr>
+<td valign="top"><img src="./avi-ascii.svg" width="370" alt="ASCII portrait" /></td>
+<td valign="top"><img src="./info-card.svg" width="490" alt="Experience, stack, highlights" /></td>
+</tr>
+</table>
 
-This repository is a part of my Data Analyst/Data Scientist portfolio. It demonstrates my ability to handle complex data, build robust models, and derive actionable insights.
+## ADWAID
 
-## Features
-- End-to-end data processing pipeline
-- Exploratory Data Analysis (EDA)
-- Robust modeling and predictive analytics
+**MCA Student · Data Analytics · Machine Learning**
 
-## Tech Stack
-- **Languages:** Python / SQL
-- **Libraries:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
-- **Tools:** Jupyter Notebooks, Git
+[![Portfolio](https://img.shields.io/badge/Portfolio-adwaidp23.github.io-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://adwaidp23.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-adwaidp23-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adwaidp23)
+[![Instagram](https://img.shields.io/badge/Instagram-adwaidp23-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/adwaidp23)
 
-## Installation
-```bash
-git clone https://github.com/adwaidp23/adwaidp23-profile.git
-cd adwaidp23-profile
-pip install -r requirements.txt
-```
+<br>
 
-## Usage
-Run the main scripts or Jupyter notebooks to see the analysis in action.
+<!-- animated contribution graph, refreshed daily by the workflow -->
+<img src="./contrib-heatmap.svg" width="860" alt="GitHub contribution graph" />
 
-## License
-MIT License
+</div>
